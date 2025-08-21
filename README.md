@@ -4,8 +4,6 @@
 실행 재현보다는 **구성·아키텍처·핵심 로직**을 빠르게 파악할 수 있게 하는 데 목적이 있습니다.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1w_tqy06pbsKyC61KbOjjVGVDjizUolVz?usp=sharing)
-<!-- 문서/보고서는 별도 레포나 링크로 관리하세요. 필요 시 아래 링크를 채워 넣으세요. -->
-[📄 Full Report](#-문서-링크-추가예정)
 
 ---
 
